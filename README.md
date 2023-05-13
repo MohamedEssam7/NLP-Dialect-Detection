@@ -18,3 +18,7 @@ Demo:
      - Removing Non-Arabic Characters
      - Removing Repeated
      - Apply Lemmatisation
+ - ### 03 ML Model
+  - 1:Text representation 
+  - 2:Model selection
+
