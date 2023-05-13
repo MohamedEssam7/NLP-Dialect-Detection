@@ -19,6 +19,6 @@ Demo:
      - Removing Repeated
      - Apply Lemmatisation
   ### 03 ML Model
-    1:Text representation 
-    2:Model selection
+   - Text representation 
+   - Model selection
 
