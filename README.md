@@ -4,6 +4,7 @@ This repository is to provide an application for detecting and identifying the a
 
 Demo: 
 
+https://github.com/MohamedEssam7/NLP-Dialect-Detection/assets/52338861/d77723ef-0821-4795-91ef-673f384580bf
 
 ## Project Pipline:
   ### 01 Data Fetching
