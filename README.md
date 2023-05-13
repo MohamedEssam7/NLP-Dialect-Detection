@@ -26,6 +26,6 @@ Demo:
   ### 04 DL Model Training
    - Hugging Face AraBert accuracy 84%
   ### 05 Deployment
-   - convert out model into ONNX model
+   - convert our model into ONNX model
    - Deploy with FastAPI
 
