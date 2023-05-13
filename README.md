@@ -19,6 +19,8 @@ Demo:
      - Removing Repeated
      - Apply Lemmatisation
   ### 03 ML Model
-   - Text representation 
+   - Text representation using TF-IDF
    - Model selection
+     - SVC F1 score of 82%
+     - Lightgbm  F1 score of 75%
 
