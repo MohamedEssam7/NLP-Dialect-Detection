@@ -6,6 +6,10 @@ Demo:
 
 https://github.com/MohamedEssam7/NLP-Dialect-Detection/assets/52338861/d77723ef-0821-4795-91ef-673f384580bf
 
+## APP Pipeline
+
+![nlp-pipeline](https://github.com/MohamedEssam7/NLP-Dialect-Detection/assets/83317285/44ab1cdd-60f6-4245-8863-8e57d2f06a91)
+
 ## Project Pipline:
   ### 01 Data Fetching
    - used SQLite connection and pandas to perform a join query and save the result in a dataframe.
